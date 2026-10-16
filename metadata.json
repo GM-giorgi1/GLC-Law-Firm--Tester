@@ -1,0 +1,6 @@
+{
+  "name": "KIMI — GRIDO1 Racing Systems / Kimi Antonelli",
+  "description": "A one-page driver site for Kimi Antonelli, driver_012 of GRIDO1 Racing Systems, in his rookie Mercedes-AMG F1 season.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
